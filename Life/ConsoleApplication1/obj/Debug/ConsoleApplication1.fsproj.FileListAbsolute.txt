@@ -1,0 +1,8 @@
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

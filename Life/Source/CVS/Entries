@@ -1,0 +1,105 @@
+/AboutWnd.cpp/1.5/Tue Nov 06 16:10:02 2001//
+/AboutWnd.h/1.2/Tue Nov 06 16:10:02 2001//
+/BArchive.h/1.1/Tue Nov 06 16:10:02 2001//
+/BiotEditor.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/BiotEditor.h/1.1.1.1/Fri Nov 17 21:55:12 2000//
+/Biots.cpp/1.4/Tue Nov 06 16:10:02 2001//
+/Biots.h/1.6/Tue Nov 06 16:10:02 2001//
+/Brain.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/Brain.h/1.1.1.1/Fri Nov 17 21:55:17 2000//
+/Collision.h/1.1/Tue Nov 06 16:10:02 2001//
+/Connect.cpp/1.1.1.1/Fri Nov 17 21:55:18 2000//
+/Connect.h/1.1.1.1/Fri Nov 17 21:55:18 2000//
+/EVOLVE.DEF/1.1.1.1/Fri Nov 17 21:55:24 2000//
+/EnvStatsWnd.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/EnvStatsWnd.h/1.3/Tue Nov 06 16:10:02 2001//
+/Environ.cpp/1.4/Tue Nov 06 16:10:02 2001//
+/Environ.h/1.3/Tue Nov 06 16:10:02 2001//
+/Etools.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/Etools.h/1.2/Tue Nov 06 16:10:02 2001//
+/Evolve.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/Evolve.h/1.1.1.1/Fri Nov 17 21:55:24 2000//
+/GRAPH1.CPP/1.1.1.1/Fri Nov 17 21:55:26 2000//
+/GeneralView.cpp/1.1.1.1/Fri Nov 17 21:55:24 2000//
+/GeneralView.h/1.2/Tue Nov 06 16:10:02 2001//
+/Genotype.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/Genotype.h/1.2/Tue Nov 06 16:10:02 2001//
+/GlobalPalette.cpp/1.1.1.1/Fri Nov 17 21:55:25 2000//
+/GlobalPalette.h/1.1.1.1/Fri Nov 17 21:55:26 2000//
+/Graph1.h/1.1.1.1/Fri Nov 17 21:55:27 2000//
+/HelpPropertySheet.cpp/1.1.1.1/Fri Nov 17 21:55:27 2000//
+/HelpPropertySheet.h/1.1.1.1/Fri Nov 17 21:55:27 2000//
+/InitialPopulation.cpp/1.4/Tue Nov 06 16:10:02 2001//
+/InitialPopulation.h/1.1.1.1/Fri Nov 17 21:55:27 2000//
+/KeyRegistry.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/KeyRegistry.h/1.2/Tue Nov 06 16:10:02 2001//
+/LoadBitmap.cpp/1.2/Tue Nov 06 16:10:02 2001//
+/LoadBitmap.h/1.2/Tue Nov 06 16:10:02 2001//
+/MagnifyWnd.cpp/1.3/Tue Nov 06 16:10:02 2001//
+/MainFrm.cpp/1.4/Tue Nov 06 16:10:02 2001//
+/MainFrm.h/1.3/Tue Nov 06 16:10:03 2001//
+/NetworkDlg.cpp/1.1.1.1/Fri Nov 17 21:55:29 2000//
+/NetworkDlg.h/1.1.1.1/Fri Nov 17 21:55:29 2000//
+/PICTURE.CPP/1.1.1.1/Fri Nov 17 21:55:30 2000//
+/PLifeDoc.cpp/1.1.1.1/Fri Nov 17 21:55:30 2000//
+/PLifeDoc.h/1.1.1.1/Fri Nov 17 21:55:30 2000//
+/PLifeView.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/PLifeView.h/1.2/Tue Nov 06 16:10:03 2001//
+/Palette.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/Palette.h/1.2/Tue Nov 06 16:10:03 2001//
+/Picture.h/1.1.1.1/Fri Nov 17 21:55:30 2000//
+/PostData.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/PostData.h/1.2/Tue Nov 06 16:10:03 2001//
+/PrimCmdLine.cpp/1.1.1.1/Fri Nov 17 21:55:31 2000//
+/PrimCmdLine.h/1.1.1.1/Fri Nov 17 21:55:31 2000//
+/PrimView.h/1.1.1.1/Fri Nov 17 21:55:45 2000//
+/Primordial Life.aps/1.3/Tue Nov 06 16:10:03 2001/-kb/
+/Primordial Life.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/Primordial Life.dsp/1.1/Tue Nov 06 16:10:03 2001//
+/Primordial Life.dsw/1.1/Tue Nov 06 16:10:03 2001//
+/Primordial Life.h/1.1.1.1/Fri Nov 17 21:55:42 2000//
+/Primordial Life.ncb/1.1/Tue Nov 06 16:10:03 2001/-kb/
+/Primordial Life.opt/1.1/Tue Nov 06 16:10:03 2001/-kb/
+/Primordial Life.plg/1.1/Tue Nov 06 16:10:03 2001//
+/Primordial Life.rc/1.4/Tue Nov 06 16:10:03 2001//
+/Rand.cpp/1.3/Tue Nov 06 16:10:03 2001//
+/Rand.h/1.3/Tue Nov 06 16:10:03 2001//
+/Registry.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/Registry.h/1.2/Tue Nov 06 16:10:03 2001//
+/Resources.cpp/1.1/Wed Jun 27 20:08:13 2001//
+/Resources.h/1.1/Wed Jun 27 20:08:13 2001//
+/SHDOCVW.CPP/1.1.1.1/Fri Nov 17 21:55:50 2000//
+/SHDOCVW.H/1.1.1.1/Fri Nov 17 21:55:50 2000//
+/SaverView.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/SaverView.h/1.2/Tue Nov 06 16:10:03 2001//
+/Settings.cpp/1.3/Tue Nov 06 16:10:03 2001//
+/Settings.h/1.3/Tue Nov 06 16:10:03 2001//
+/SmallView.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/SmallView.h/1.2/Tue Nov 06 16:10:03 2001//
+/Sock.cpp/1.1.1.1/Fri Nov 17 21:55:51 2000//
+/Sock.h/1.1.1.1/Fri Nov 17 21:55:52 2000//
+/Sound.cpp/1.1/Tue Nov 06 16:10:03 2001//
+/Sound.h/1.1/Tue Nov 06 16:10:03 2001//
+/Stat.cpp/1.1.1.1/Fri Nov 17 21:55:52 2000//
+/Stat.h/1.1.1.1/Fri Nov 17 21:55:52 2000//
+/StdAfx.cpp/1.1.1.1/Fri Nov 17 21:55:52 2000//
+/StdAfx.h/1.3/Tue Nov 06 16:10:03 2001//
+/TODO.txt/1.1/Tue Nov 06 16:10:03 2001//
+/Winmain.c/1.1.1.1/Fri Nov 17 21:55:54 2000//
+/WorldSize.cpp/1.3/Tue Nov 06 16:10:03 2001//
+/WorldSize.h/1.3/Tue Nov 06 16:10:03 2001//
+/ZipFile.cpp/1.1.1.1/Fri Nov 17 21:55:54 2000//
+/ZipFile.h/1.1.1.1/Fri Nov 17 21:55:55 2000//
+/another_test_by_cn.cpp/1.1/Mon Nov 05 18:19:56 2001//
+/breeding.cpp/1.3/Tue Nov 06 16:10:03 2001//
+/breeding.h/1.3/Tue Nov 06 16:10:03 2001//
+/magnifywnd.h/1.3/Tue Nov 06 16:10:03 2001//
+/metabolism.cpp/1.2/Thu Jun 28 14:31:45 2001//
+/metabolism.h/1.2/Thu Jun 28 14:31:45 2001//
+/resource.h/1.3/Tue Nov 06 16:10:03 2001//
+/vector.cpp/1.2/Tue Nov 06 16:10:03 2001//
+/vector.h/1.3/Tue Nov 06 16:10:03 2001//
+/vssver.scc/1.3/Tue Nov 06 16:10:03 2001/-kb/
+/webbrowser.cpp/1.1.1.1/Fri Nov 17 21:55:54 2000//
+/webbrowser.h/1.1.1.1/Fri Nov 17 21:55:54 2000//
+D
