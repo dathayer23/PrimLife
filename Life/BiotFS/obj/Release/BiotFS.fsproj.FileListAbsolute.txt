@@ -1,0 +1,7 @@
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Release\BiotFS.XML
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Release\BiotFS.exe
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Release\BiotFS.pdb
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Release\FSharp.Core.dll
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Release\FSharp.Core.xml
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\obj\Release\BiotFS.exe
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\obj\Release\BiotFS.pdb

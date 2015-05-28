@@ -5,3 +5,10 @@ C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\BiotFS\bin\Debug\FSharp.C
 C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\BiotFS\obj\Debug\BiotFS.pdb
 C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\BiotFS\bin\Debug\BiotFS.exe
 C:\Users\dthayer\Documents\GitHub\Primordial Life\Life\BiotFS\obj\Debug\BiotFS.exe
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Debug\BiotFS.XML
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Debug\BiotFS.exe
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Debug\BiotFS.pdb
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Debug\FSharp.Core.dll
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\bin\Debug\FSharp.Core.xml
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\obj\Debug\BiotFS.exe
+C:\Users\dthayer\Documents\GitHub\PrimLife\Life\BiotFS\obj\Debug\BiotFS.pdb
